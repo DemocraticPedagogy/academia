@@ -36,7 +36,7 @@ avatar: "/img/avatar-icon.png"
 navbar-col: "#C39A9A"
 navbar-text-col: "#F8EDED"
 navbar-children-col: "#F5F5F5"
-page-col: "#cover image.jpg"
+page-col: "#cover-image-compressed.jpg"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -71,7 +71,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+instagram: sohini.chattopadhyay
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
