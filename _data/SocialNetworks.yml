@@ -8,7 +8,7 @@
 
 facebook:
   name: "Facebook"
-  baseURL: "https://www.facebook.com/"
+  baseURL: "https://www.facebook.com/skinny.olive"
   icon: "fa-facebook"
 
 github:
@@ -28,7 +28,7 @@ reddit:
 
 email:
   name: "Email me"
-  baseURL: "mailto:"
+  baseURL: "c.sohini@columbia.edu"
   icon: "fa-envelope"
 
 linkedin:
@@ -53,7 +53,7 @@ snapchat:
 
 instagram:
   name: "Instagram"
-  baseURL: "https://www.instagram.com/"
+  baseURL: "https://www.instagram.com/sohini.chattopadhyay/?hl=en"
   icon: "fa-instagram"
 
 youtube:
