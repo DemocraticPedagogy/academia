@@ -28,7 +28,7 @@ reddit:
 
 email:
   name: "Email me"
-  baseURL: "mailto:c.sohini@columbia.edu"
+  baseURL: "c.sohini@columbia.edu"
   icon: "fa-envelope"
 
 linkedin:
