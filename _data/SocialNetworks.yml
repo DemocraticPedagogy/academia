@@ -18,7 +18,7 @@ github:
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/"
+  baseURL: "https://twitter.com/popeyed"
   icon: "fa-twitter"
 
 reddit:
@@ -28,7 +28,7 @@ reddit:
 
 email:
   name: "Email me"
-  baseURL: "c.sohini@columbia.edu"
+  baseURL: "mailto:c.sohini@columbia.edu"
   icon: "fa-envelope"
 
 linkedin:
