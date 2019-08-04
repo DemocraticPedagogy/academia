@@ -40,14 +40,14 @@ page-col: "#DFEDEC"
 page-text-col: "#F2E5E5"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#cover-image-min2.jpg"
+footer-col: "/img/cover-image-min2.jpg"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-footer-img: "/img/cover image.png"
+footer-img: "/img/cover-image-min2.jpg"
 page-img: 
 
 # --- Footer options --- #
