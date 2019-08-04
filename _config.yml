@@ -19,7 +19,7 @@ description: historian in the unmaking.
 # --- Navigation bar options --- #
 navbar-links:
   About Me: "aboutme"
-  Blog: "blog"
+  Abstracts: "abstracts"
   cv: "cv"
 
 # Image to show in the navigation bar - image must be a square (width = height)
