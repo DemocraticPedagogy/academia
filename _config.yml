@@ -39,15 +39,16 @@ navbar-text-col: "#F8EDED"
 navbar-children-col: "#F5F5F5"
 page-col: "#DFEDEC"
 page-text-col: "#F2E5E5"
-link-col: "#008AFF"
+link-col: "##23a1c4"
 hover-col: "#0085A1"
-footer-col: "#cover-image-min2.jpg"
+footer-col: "#cover_image-min2.jpg"
 footer-text-col: "#777777"
 footer-link-col: "#000000"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-footer-img: 
+footer-img: img/cover_image-min2.jpg
+
 page-img: 
 # --- Footer options --- #
 # Change all these values or delete the ones you don't want.
@@ -59,8 +60,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "c.sohini@columbia.edu"
+ # rss: true
  # email: "c.sohini@columbia.edu"
  # facebook: 
   github: sohini-c
