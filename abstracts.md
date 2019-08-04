@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: talks and abstracts
 ---
 **"In the Purity of Whiteness": decimating the everyday corpse. Bombay 1887 - 1953**. _IIM Kolkata_  
