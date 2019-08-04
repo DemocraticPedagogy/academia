@@ -1,10 +1,11 @@
 # --- General options --- #
 
 # Name of website
-title: Semi-professional introspection
+title: semi-professional musings
 
 # Short description of your site
-description: historian in the unmaking.
+description: Historian in the unmaking
+
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
