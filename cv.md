@@ -2,7 +2,7 @@
 layout: page
 title: curriculum vitae
 ---
-**Dissertation Title**
+**Dissertation Title:**  
 Death and Destitution in colonial cities: Bombay and Calcutta, 1896 - 1960.
 
 **Research Fields and examiners:** South Asian History (Anupama Rao), History of Health and Medicine in the Global South (Kavita Sivaramakrishnan), History of Science (Pamela Smith), British Imperial and Interwar History (Susan Pedersen)
@@ -49,7 +49,7 @@ Contributor, BnF 640 Minimal Edition, Making and Knowing Project, Center for Sci
 2013: Merit Award, Jawaharlal Nehru Memorial Fund, Nehru Memorial Museum and Library, New Delhi, for securing First Position in BA (Honors) History, University of Calcutta.  
 2009 – 2012: Kuruvillah Zachariah Memorial Prize, P. Banerjee Memorial Scholarship for highest marks in social sciences, from Presidency College, Kolkata.  
 
-**Service and organization**
+**Service and organization**  
 2020 March: Conference organizer, Bombay and Indian Ocean Urbanisms (anticipated publications).  
 2018 Spring: Graduate Coordinator, Geographies of Injustice Workshop, Geographies of Injustice Working Group, Center for Studies of Social Difference, Columbia University.  
 2018 Spring onwards: Chief organizer, “Workshop on History of Health and Medicine from the Global South”, Center for Science and Society, Columbia University.  
