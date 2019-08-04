@@ -5,7 +5,7 @@ title: curriculum vitae
 **Dissertation Title:**  
 Death and Destitution in colonial cities: Bombay and Calcutta, 1896 - 1960.
 
-**Research Fields and examiners:** South Asian History (Anupama Rao), History of Health and Medicine in the Global South (Kavita Sivaramakrishnan), History of Science (Pamela Smith), British Imperial and Interwar History (Susan Pedersen)
+**Research Fields and examiners:** South Asian History, History of Health and Medicine in the Global South, History of Science, British Imperial and Interwar History.
 
 **Academic Qualifications**  
 2019: MPhil, Columbia University  
