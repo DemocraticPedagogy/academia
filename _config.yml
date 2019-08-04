@@ -1,7 +1,8 @@
 # --- General options --- #
 
 # Name of website
-title: Home run.
+title: Semi-professional introspections
+
 # Short description of your site
 description: historian in the unmaking.
 
@@ -39,8 +40,8 @@ page-text-col: "#F2E5E5"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#cover-image-min2.jpg"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -54,6 +55,7 @@ page-img:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Sohini
+  email: c.sohini@columbia.edu
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
