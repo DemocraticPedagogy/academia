@@ -32,13 +32,13 @@ Oct 2015 - “The Secret Bodies: Calcutta and the Making of the Productive Cadav
 Apr 2015 - ‘’Afterlife in an Indian City: 19th Century Calcutta and the Management of Its Corpses’’, Life in the Indian City Conference, Indian Institute of Technology (IIT) Delhi, 18 April 2015 – adjudged best paper.  
 Oct 2015 - “Measuring Public Health in a Colonial City: Mortality Statistics Collection and Representation in 19th Century Calcutta”, 12th Joint Atlantic Seminar for Medical History, Johns Hopkins University.  
 
-**Writing**
+**Writing**  
 Contributor, BnF 640 Minimal Edition, Making and Knowing Project, Center for Science and Society, Columbia University  
 “Blood Giants: The History of Sanitary Napkins in India”, 26 December, 2015, reprinted Scroll.in on 4 February, 2016 at and 7 February 2016 at www.qz.com  
 “Theories from the South”: interviews with Prathama Banerjee and Aditya Nigam, Borderlines, 2018.  
 
 
-**Fellowship and Awards**  
+**Fellowship and Awards**    
 2016 – 2021: Hofstadter Fellowship, Columbia University.  
 2019 Ischia School of History of Life Sciences Summer Fellow, 19th Session on “Life and Death”  
 2018: Graduate Fellow, “Geographies of Injustice”, Center for Studies on Social Difference, Columbia University.  
