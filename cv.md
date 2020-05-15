@@ -40,8 +40,8 @@ Contributor, BnF 640 Minimal Edition, Making and Knowing Project, Center for Sci
 
 
 **Fellowship and Awards**    
-2021: AIIS Junior Fellowship
-2020-2021: SSRC-IDRF
+2021: AIIS Junior Fellowship  
+2020-2021: SSRC-IDRF  
 2016 – 2021: Hofstadter Fellowship, Columbia University.  
 2019 Ischia School of History of Life Sciences Summer Fellow, 19th Session on “Life and Death”  
 2018: Graduate Fellow, “Geographies of Injustice”, Center for Studies on Social Difference, Columbia University.  
