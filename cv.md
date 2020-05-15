@@ -3,7 +3,7 @@ layout: page
 title: curriculum vitae
 ---
 **Dissertation Title:**  
-Death and Destitution in colonial cities: Bombay and Calcutta, 1896 - 1960.
+Mass death as an urban problem in colonial India: Bombay and Calcutta, 1896 - 1960.
 
 **Research Fields and examiners:** South Asian History, History of Health and Medicine in the Global South, History of Science, British Imperial and Interwar History.
 
@@ -16,6 +16,7 @@ Death and Destitution in colonial cities: Bombay and Calcutta, 1896 - 1960.
 **Teaching and Editorial Experience**  
 2019 - 2020: Editorial Assistant, Comparative Studies in South Asia, Africa and the Middle East.  
 2018 onwards: Founder and South Asia Editor, South Asia Editor, “Borderlines”, Accessible open-sourced Website associated with Comparative   Studies in South Asia, Africa and the Middle East
+
 Courses:  
 South Asia I 
 South Asia II: Empire and Its Aftermath  
@@ -39,6 +40,8 @@ Contributor, BnF 640 Minimal Edition, Making and Knowing Project, Center for Sci
 
 
 **Fellowship and Awards**    
+2021: AIIS Junior Fellowship
+2020-2021: SSRC-IDRF
 2016 – 2021: Hofstadter Fellowship, Columbia University.  
 2019 Ischia School of History of Life Sciences Summer Fellow, 19th Session on “Life and Death”  
 2018: Graduate Fellow, “Geographies of Injustice”, Center for Studies on Social Difference, Columbia University.  
